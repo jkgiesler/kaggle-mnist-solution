@@ -1,5 +1,5 @@
 # kaggle_mnist
-Building conv neural nets using theano, lasagne and cuda. Hoping this code will help me tackle the diabetic retinopathy challenge.
+Building conv neural nets using theano, lasagne and cuda. Hoping this code will help me tackle the kaggle diabetic retinopathy challenge.
 
 Heavily borrowed code from the following great tutorials:
 
