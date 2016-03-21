@@ -1,3 +1,9 @@
+#New solution as of 3/21/2016
+Please see my Deepexcel solution here: https://gist.github.com/jkgiesler/fe574a7d41aa894db55e
+
+
+
+
 #My solution to kaggle's MNIST problem
 
 Building conv neural nets using theano, lasagne and cuda. Hoping this code will help me tackle the kaggle diabetic retinopathy challenge.
